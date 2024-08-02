@@ -10,7 +10,7 @@ AthenaFi and Amorphic is currently building an AI powered decentralised yield ag
 + Pioneer decentralised insurance by standardising protected crypto portfolios.
 + Avail users of AI generated analytics that drive good financial outcomes.
 + Integrate cross chain interoperability across a wider choice of DeFi derivatives.
-----------
+----------------------------------------------------------------------------------
 
 ## TECH STACK
 + Tenderly - Ehereum Development Platform
@@ -18,11 +18,16 @@ AthenaFi and Amorphic is currently building an AI powered decentralised yield ag
 + OpenCover- Provides insurance portfolio protection cover
 + Nexus Mutual - Decentralised Insurance package
 + Safe Smart Account - Account abstraction account
+----------------------------------------------------------
 
 ## CONTRIBUTORS
 + Adegbenga Ogungbeje
 + Jakub Kobeldys
 + Graham Cooke
+
+## LICENSE
+----------
+[MIT]
 
 
 
