@@ -24,6 +24,7 @@ AthenaFi and Amorphic is currently building an AI powered decentralised yield ag
 + Team discussion on Tech stack ( 1 week)
 + Wireframes set up with mock MVP ( 1 week)
 + User community built via discord and other social media sites (2 weeks, ongoing)
++ Deploy wireframes and iterate product
 + Design Document highlighting pros and cons of Tech stack (1 week, ongoing)
 + Mock code deployed on Tenderly and testnet {Discussion around a vault smart contract, vault kit and token swap smart contract} (1 week)
 + Team discussion and tests {unit} written on smart contract vulnerabilities (2 weeks)
