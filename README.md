@@ -38,10 +38,12 @@ AthenaFi and Amorphic is currently building an AI powered decentralised yield ag
 + 1st Smart contract audit (3 weeks)
 + Implementation of smart contract audit recommendations (1 week)
 + 2nd smart contract audit ( 2 weeks)
++ Implementation of 2nd smart contract audit recommendations ( 1 week)
 + Deployment on main net (1 week)
 + User centric interation ( ongoing)
 + Bug bounty established {ImmuneFi, CodeHawks, Cantina, Code4rena etc} (1 week)
 + Tech support in Community (ongoing)
++ Quarterly smart contract audit (ongoing)
 --------------------------------
 
 ## CONTRIBUTORS
