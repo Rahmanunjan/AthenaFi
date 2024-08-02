@@ -13,11 +13,11 @@ AthenaFi and Amorphic is currently building an AI powered decentralised yield ag
 ----------------------------------------------------------------------------------
 
 ## TECH STACK
-+ Tenderly - Ethereum Development Platform - https://tenderly.co/
-+ DeFiSaver - DeFi Dashboard management tool - https://docs.defisaver.com/
-+ OpenCover- frontend platform to access a decentralised insurance provider - https://opencover.com/
-+ Nexus Mutual - Decentralised Insurance provider - https://nexusmutual.io/
-+ Safe Smart Account - Account abstraction account - https://docs.safe.global/advanced/smart-account-overview
++ Tenderly - An Ethereum Development Platform - https://tenderly.co/
++ DeFiSaver - A DeFi Dashboard management tool - https://docs.defisaver.com/
++ OpenCover- A frontend platform to accessing a range of decentralised insurance providers - https://opencover.com/
++ Nexus Mutual - A Decentralised Insurance provider - https://nexusmutual.io/
++ Safe Smart Account - An Account abstraction account - https://docs.safe.global/advanced/smart-account-overview
 ----------------------------------------------------------
 
 ## ROADMAP
