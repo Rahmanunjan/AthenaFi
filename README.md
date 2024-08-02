@@ -13,43 +13,43 @@ AthenaFi and Amorphic is currently building an AI powered decentralised yield ag
 ----------------------------------------------------------------------------------
 
 ## TECH STACK
-+ Tenderly - Ethereum Development Platform
-+ DeFiSaver - DeFi Dashboard management tool
-+ OpenCover- frontend platform to access a decentralised insurance provider
-+ Nexus Mutual - Decentralised Insurance package
-+ Safe Smart Account - Account abstraction account
++ Tenderly - Ethereum Development Platform.
++ DeFiSaver - DeFi Dashboard management tool.
++ OpenCover- frontend platform to access a decentralised insurance provider.
++ Nexus Mutual - Decentralised Insurance provider.
++ Safe Smart Account - Account abstraction account.
 ----------------------------------------------------------
 
 ## ROADMAP
-+ Team discussion on Tech stack ( 1 week)
-+ Wireframes set up with mock MVP ( 1 week)
-+ User community built via discord and other social media sites (2 weeks, ongoing)
-+ Deploy wireframes and iterate product
-+ Design Document highlighting pros and cons of Tech stack (1 week, ongoing)
-+ Mock code deployed on Tenderly and testnet {Discussion around a vault smart contract, vault kit and token swap smart contract} (1 week)
-+ Team discussion and tests {unit} written on smart contract vulnerabilities (2 weeks)
-+ Implementation of tech stack { DeFiSaver, OpenCover/Nexus Mutual, Safe Smart Account} (2 weeks)
-+ Front End integration (1 week)
-+ User Centric pilot test and iteration over user feedback (2 weeks, ongoing)
-+ AI Integration (2 weeks)
-+ Code tested with Foundry and Statistical Analysis {Slither, Mythril, MythX, Echidna etc}  ( 2 weeks)
-+ MVP deployed with dummy funds ( 1 week)
-+ Further Iteration with users ( 2 weeks)
-+ 1st Smart contract audit (3 weeks)
-+ Implementation of smart contract audit recommendations (1 week)
-+ 2nd smart contract audit ( 2 weeks)
-+ Implementation of 2nd smart contract audit recommendations ( 1 week)
-+ Deployment on main net (1 week)
-+ User centric interation ( ongoing)
-+ Bug bounty established {ImmuneFi, CodeHawks, Cantina, Code4rena etc} (1 week)
-+ Tech support in Community (ongoing)
-+ Quarterly smart contract audit (ongoing)
++ Team discussion on Tech stack ( 1 week).
++ Wireframes set up with mock MVP ( 1 week).
++ User community built via discord and other social media sites (2 weeks, ongoing).
++ Deploy wireframes and iterate product.
++ Design Document highlighting pros and cons of Tech stack (1 week, ongoing).
++ Mock code deployed on Tenderly and testnet {Discussion around a vault smart contract, vault kit and token swap smart contract} (1 week).
++ Team discussion and tests {unit} written on smart contract vulnerabilities (2 weeks).
++ Implementation of tech stack { DeFiSaver, OpenCover/Nexus Mutual, Safe Smart Account} (2 weeks).
++ Front End integration (1 week).
++ User Centric pilot test and iteration over user feedback (2 weeks, ongoing).
++ AI Integration (2 weeks).
++ Code tested with Foundry and Statistical Analysis {Slither, Mythril, MythX, Echidna etc}  ( 2 weeks).
++ MVP deployed with dummy funds ( 1 week).
++ Further Iteration with users ( 2 weeks).
++ 1st Smart contract audit (3 weeks).
++ Implementation of smart contract audit recommendations (1 week).
++ 2nd smart contract audit ( 2 weeks).
++ Implementation of 2nd smart contract audit recommendations ( 1 week).
++ Deployment on main net/s {Ethereum, Polkadot, Linea, Avail, Near} (1 week).
++ User centric iteration ( ongoing).
++ Bug bounty established {ImmuneFi, CodeHawks, Cantina, Code4rena etc} (1 week).
++ Tech support in Community (ongoing).
++ Quarterly smart contract audit (ongoing).
 --------------------------------
 
 ## CONTRIBUTORS
-+ Adegbenga Ogungbeje
-+ Jakub Kobeldys
-+ Graham Cooke
++ Adegbenga Ogungbeje.
++ Jakub Kobeldys.
++ Graham Cooke.
 ----------------------
 
 ## RESOURCES
