@@ -28,6 +28,7 @@ AthenaFi and Amorphic is currently building an AI powered decentralised yield ag
 
 ## RESOURCES
 ------------
+https://www.canva.com/design/DAGMrXPqOxo/zbN8AxMHN156tAmt4C29rw/edit?utm_content=DAGMrXPqOxo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## LICENSE
 ----------
