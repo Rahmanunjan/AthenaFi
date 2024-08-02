@@ -10,6 +10,7 @@ AthenaFi and Amorphic is currently building an AI powered decentralised yield ag
 + Pioneer decentralised insurance by standardising protected crypto portfolios.
 + Avail users of AI generated analytics that drive good financial outcomes.
 + Integrate cross chain interoperability across a wider choice of DeFi derivatives.
++ Improved treasury strategy.
 ----------------------------------------------------------------------------------
 
 ## TECH STACK
