@@ -1,5 +1,5 @@
 # AthenaFi
-An AI driven DeFi Yield Aggregator enabled by account abstraction
+An AI driven DeFi Yield Aggregator enabled by account abstraction - One Click DeFi across all your assets!
 -----------------------------------------------------------------
 
 ## INTRODUCTION
@@ -24,6 +24,10 @@ AthenaFi and Amorphic is currently building an AI powered decentralised yield ag
 + Adegbenga Ogungbeje
 + Jakub Kobeldys
 + Graham Cooke
+----------------------
+
+## RESOURCES
+------------
 
 ## LICENSE
 ----------
