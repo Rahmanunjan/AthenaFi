@@ -7,9 +7,9 @@ An AI driven DeFi Yield Aggregator enabled by account abstraction
 
 ## TECH STACK
 + Tenderly - Ehereum Development Platform
-+ DeFiSaver
-+ OpenCover
-+ Nexus Mutual - Decentralised Insurance
++ DeFiSaver - DeFi Dashboard management tool
++ OpenCover- Provides insurance portfolio protection cover
++ Nexus Mutual - Decentralised Insurance package
 + Safe Smart Account - Account abstraction account
 
 
